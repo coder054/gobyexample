@@ -48,6 +48,9 @@ func main() {
 	fmt.Println(sp.age)
 
 	// Structs are mutable.
+	s.name = "anh"
 	sp.age = 51
-	fmt.Println(sp.age)
+
+	fmt.Println(s)
+	fmt.Println(sp)
 }

@@ -6,4 +6,5 @@ $ go run structs.go
 &{Jon 42}
 Sean
 50
-51
+{anh 51}
+&{anh 51}
